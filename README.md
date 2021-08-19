@@ -1,2 +1,2 @@
-# Resource-management
-Resource management application
+# Resort-management
+Resort management application
